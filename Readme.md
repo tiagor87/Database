@@ -38,6 +38,7 @@ Para começar, é necessário baixar e instalar os recursos necessários para as
 
     1. ![image](./images/docker-install-01.png)
     2. ![image](./images/docker-install-02.png)
+    3. Inicie o programa.
 
 * Fazer download do repositório:
 
