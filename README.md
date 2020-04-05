@@ -54,12 +54,6 @@ Para começar, é necessário baixar e instalar os recursos necessários para as
 
         ![image](./imgs/ps-01.png)
 
-    3. Acessar pasta;
-
-        ```powershell
-        cd Database
-        ```
-
 ### StarUML
 
 * Fazer download do [StarUML](http://staruml.io/download)
